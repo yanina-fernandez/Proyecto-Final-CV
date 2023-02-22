@@ -1,0 +1,19 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+    width: 90%;
+    color: beige;
+    margin-left: 5%;
+}
+/*
+header,section {
+    width: 85%;
+    margin: 0 auto;
+}*/
+header {
+    display:flex;
+}
+img{
+    width: 10%;
+    height: 8%;
+    margin-right: 2%;
+}
